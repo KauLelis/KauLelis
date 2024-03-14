@@ -1,5 +1,5 @@
 <h1> 🖥 Oii! Eu sou a Kauany Lelis </h1>
-<h3> 🖱 Atualmente cursando Tecnologia em Análise e Desenvolvimento de Sistemas, na universidade Unisales. Buscando sempre expandir meus conhecimentos. </h3>
+<h3> Atualmente cursando Tecnologia em Análise e Desenvolvimento de Sistemas, na universidade Unisales. Buscando sempre expandir meus conhecimentos. </h3>
 
 <div>
   <a href="https://beacons.ai/KauLelis">
