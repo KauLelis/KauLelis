@@ -23,5 +23,3 @@
   <img align="center" alt="Kau-Figma" height="40" width="40" src="https://cdn.discordapp.com/attachments/806574611084345355/1217717223083475025/image.png?ex=66050a8a&is=65f2958a&hm=7750698b458845b3387c269ee64ae3794aec927663178de00abb90e66be7fc4f&">
   
 </div>
-  
-##
