@@ -20,4 +20,4 @@
   <a href="https://instagram.com/kaukdd"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
-![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/KauLelis/KauLelis/blob/output/github-contribution-grid-snake.svg)
