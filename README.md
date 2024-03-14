@@ -1,5 +1,5 @@
-<h2> 🖥 Oii! Eu sou a Kauany Lelis </h2>
-<h4> Atualmente cursando Tecnologia em Análise e Desenvolvimento de Sistemas, na universidade Unisales. </h4>
+<h1> 🖥 Oii! Eu sou a Kauany Lelis </h1>
+<h3> Atualmente cursando Tecnologia em Análise e Desenvolvimento de Sistemas, na universidade Unisales. Buscando sempre expandir meus conhecimentos. </h3>
 
 <div>
   <a href="https://beacons.ai/KauLelis">
@@ -8,7 +8,7 @@
 </div>
     
 <div>
-  <h4> Aprendendo... </h4>
+  <h3> Aprendendo... </h3>
 
   <img align="center" alt="Kau-CSS" height="50" width="50" src="https://cdn.discordapp.com/attachments/806574611084345355/1217711267809202277/image.png?ex=660504fe&is=65f28ffe&hm=522a9a66e707a14c752ec29936f666917c8e183c0caa134343db693a8a6676da&">  
   
