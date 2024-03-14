@@ -1,14 +1,14 @@
-### Oii! Eu sou a Kauany Lelis
+<h2> 🖥 Oii! Eu sou a Kauany Lelis </h2>
+<h4> Atualmente cursando Tecnologia em Análise e Desenvolvimento de Sistemas, na universidade Unisales. </h4>
 
 <div>
   <a href="https://beacons.ai/KauLelis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauLelis&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img align="right" alt="Kau-icon" heigth="250" width="200" src="https://cdn.discordapp.com/attachments/806574611084345355/1217709076222443570/download20240304002055_1.png?ex=660502f3&is=65f28df3&hm=eef875285b7fbee3502bda5be2c06f0e14ddd0057148d86964b1392613e92c21&">
 </div>
-  
+    
 <div>
-
-  ### Aprendendo...
+  <h4> Aprendendo... </h4>
 
   <img align="center" alt="Kau-CSS" height="50" width="50" src="https://cdn.discordapp.com/attachments/806574611084345355/1217711267809202277/image.png?ex=660504fe&is=65f28ffe&hm=522a9a66e707a14c752ec29936f666917c8e183c0caa134343db693a8a6676da&">  
   
