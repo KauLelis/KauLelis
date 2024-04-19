@@ -10,7 +10,7 @@
 <div>
   <h3> Aprendendo... </h3>
 
-  <img align="center" alt="Kau-CSS" height="50" width="50" src="https://cdn.discordapp.com/attachments/1225949939746603031/1225950433282097222/image.png?ex=6622fe50&is=66108950&hm=a2658adff0e955dbee69558c423b6ca70a35dca6e9ad57be7ccfc1224f335c8d&">  
+  <img align="center" alt="Kau-CSS" height="40" width="40" src="https://cdn.discordapp.com/attachments/1225949939746603031/1225950433282097222/image.png?ex=6622fe50&is=66108950&hm=a2658adff0e955dbee69558c423b6ca70a35dca6e9ad57be7ccfc1224f335c8d&">  
   
   <img align="center" alt="Kau-HTML" height="40" width="40" src="https://cdn.discordapp.com/attachments/1225949939746603031/1225950470410076231/image.png?ex=6622fe59&is=66108959&hm=d5bf7cf6fdc7fefad41319dd8c47b1550c1ef3722a785af4e24864927a140859&">
   
