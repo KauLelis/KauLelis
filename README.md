@@ -4,22 +4,22 @@
 <div>
   <a href="https://beacons.ai/KauLelis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauLelis&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img align="right" alt="Kau-icon" heigth="250" width="200" src="https://cdn.discordapp.com/attachments/1225949939746603031/1225950102338801707/download20240304002055_1.png?ex=6622fe01&is=66108901&hm=a0cc3ce53cc40bd5eb7739460471d3e154cf13d621e0f4caea814e1f23cfddf3&">
+  <img align="right" alt="Kau-icon" heigth="250" width="200" src="https://cdn.discordapp.com/attachments/1225949939746603031/1225950102338801707/download20240304002055_1.png?ex=667ca401&is=667b5281&hm=495ed3122e38f509836749438588ff9dde2b450d630162806c21c81075db4025&">
 </div>
     
 <div>
   <h3> Aprendendo... </h3>
 
-  <img align="center" alt="Kau-CSS" height="35" width="35" src="https://cdn.discordapp.com/attachments/1225949939746603031/1225950433282097222/image.png?ex=6622fe50&is=66108950&hm=a2658adff0e955dbee69558c423b6ca70a35dca6e9ad57be7ccfc1224f335c8d&">  
+  <img align="center" alt="Kau-CSS" height="35" width="35" src="https://cdn.discordapp.com/attachments/1225949939746603031/1225950433282097222/image.png?ex=667ca450&is=667b52d0&hm=de623f2a03b0fe5fc8062eee40e11fae0bdc288b29b1a97389bd9d5be7bef465&">  
   
-  <img align="center" alt="Kau-HTML" height="40" width="40" src="https://cdn.discordapp.com/attachments/1225949939746603031/1225950470410076231/image.png?ex=6622fe59&is=66108959&hm=d5bf7cf6fdc7fefad41319dd8c47b1550c1ef3722a785af4e24864927a140859&">
+  <img align="center" alt="Kau-HTML" height="40" width="40" src="https://cdn.discordapp.com/attachments/1225949939746603031/1225950470410076231/image.png?ex=667ca459&is=667b52d9&hm=2962bc38a4cbf3a437c432c1002aa7762bad2baa48d7dd6e3a1c2244c1d50b8f&">
   
-  <img align="center" alt="Kau-Js" height="40" width="40" src="https://cdn.discordapp.com/attachments/1225949939746603031/1225950504341999706/image.png?ex=6622fe61&is=66108961&hm=71773c86e162d727c7b480c5a32bc6a7faa5793a9f4109b0f95b987b24aa5ff7&">
+  <img align="center" alt="Kau-Js" height="40" width="40" src="https://cdn.discordapp.com/attachments/1225949939746603031/1225950504341999706/image.png?ex=667ca461&is=667b52e1&hm=c15113aefb4e34ed6bb33e88df50d3516c53785b4cea295223a49cb0b03caf74&">
   
-  <img align="center" alt="Kau-Java" height="40" width="40" src="https://cdn.discordapp.com/attachments/1225949939746603031/1225950537267286026/image.png?ex=6622fe69&is=66108969&hm=53f057a020754ef480027469ed5cd19b4e8deb6a59f29c4b77a9ee453a94b014&">
+  <img align="center" alt="Kau-Java" height="40" width="40" src="https://cdn.discordapp.com/attachments/1225949939746603031/1225950537267286026/image.png?ex=667ca469&is=667b52e9&hm=29537afdc53575aa6ed517614db222fa1c98e4c4c9d17304558f3493bb4a29a3&">
   
-  <img align="center" alt="Kau-Docker" height="50" width="50" src="https://cdn.discordapp.com/attachments/1225949939746603031/1225950564479799357/image.png?ex=6622fe6f&is=6610896f&hm=478016fe8e71d63c74497ac59537bd5c2c5ec22e956370ab94c1beb6f13c1956&">
+  <img align="center" alt="Kau-Docker" height="50" width="50" src="https://cdn.discordapp.com/attachments/1225949939746603031/1225950564479799357/image.png?ex=667ca46f&is=667b52ef&hm=d48f896fb7243fae8675f7b3a18948f1ba221059aed14ef9a7f5946a99808ad9&">
 
-  <img align="center" alt="Kau-Figma" height="40" width="40" src="https://cdn.discordapp.com/attachments/1225949939746603031/1225950593063981116/image.png?ex=6622fe76&is=66108976&hm=2ca93a21d31256894cd1474a055beb4901ef6d127ebc2f9b5f9dad2f43079ce7&">
+  <img align="center" alt="Kau-Figma" height="40" width="40" src="https://cdn.discordapp.com/attachments/1225949939746603031/1225950593063981116/image.png?ex=667ca476&is=667b52f6&hm=7b8c0be7986f8027b5d34a273c44e57e650b5cdda0a8febc0d64663e5c4a54cf&">
   
 </div>
