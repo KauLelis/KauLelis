@@ -10,16 +10,16 @@
 <div>
   <h3> Aprendendo... </h3>
 
-  <img align="center" alt="CSS" height="35" width="35" src="https://i.imgur.com/779tKha.png">  
+  <img align="center" alt="Java" height="40" width="40" src="https://i.imgur.com/ybJQ7yp.png">
+
+  <img align="center" alt="Figma" height="40" width="40" src="https://i.imgur.com/SbXBumi.png">
+
+  <img align="center" alt="CSS" height="48" width="48" src="https://i.imgur.com/779tKha.png">  
   
   <img align="center" alt="HTML" height="40" width="40" src="https://i.imgur.com/D3uqfFE.png">
   
   <img align="center" alt="Js" height="40" width="40" src="https://i.imgur.com/dxrspKn.png">
-  
-  <img align="center" alt="Java" height="40" width="40" src="https://i.imgur.com/ybJQ7yp.png">
-  
-  <img align="center" alt="Docker" height="50" width="50" src="https://i.imgur.com/bhEFsKP.png">
 
-  <img align="center" alt="Figma" height="40" width="40" src="https://i.imgur.com/SbXBumi.png">
+  <img align="center" alt="Docker" height="50" width="50" src="https://i.imgur.com/bhEFsKP.png">
   
 </div>
