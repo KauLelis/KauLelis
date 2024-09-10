@@ -17,6 +17,8 @@
   <img align="center" alt="CSS" height="48" width="48" src="https://i.imgur.com/779tKha.png">  
   
   <img align="center" alt="HTML" height="40" width="40" src="https://i.imgur.com/D3uqfFE.png">
+
+  <img align="center" alt="SASS" height="40" width="40" src="">
   
   <img align="center" alt="Js" height="40" width="40" src="https://i.imgur.com/dxrspKn.png">
 
